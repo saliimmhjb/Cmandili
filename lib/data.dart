@@ -1,0 +1,68 @@
+import 'package:shopping/models/products.dart';
+
+final List<insertProduct> products = [
+  insertProduct(
+      productName: "Inkax Kit Bluetooth T02",
+      productDesc: "Les écouteurs Inkax T03 Plus sont légers, confortables et compatibles avec Android, iOS et PC. Ils offrent une expérience sonore immersive, une connexion stable grâce au Bluetooth 5.1 et jusqu'à 3 heures d'autonomie. Le microphone intégré assure un son net sans bruits extérieurs lors des appels.",
+      productType: "Informatique",
+      productImage: "assets/inkax.png",
+      productPrice: 40.20,
+      productNewPrice: 36.99,
+  ),
+  insertProduct(
+    productName: "MSI Raider GE78 HX 14VIG-612TH",
+    productDesc: "Les écouteurs Inkax T02 Plus sont légers, confortables et compatibles avec Android, iOS et PC. Ils offrent une expérience sonore immersive, une connexion stable grâce au Bluetooth 5.1 et jusqu'à 3 heures d'autonomie. Le microphone intégré assure un son net sans bruits extérieurs lors des appels.",
+    productType: "Informatique",
+    productImage: "assets/msi.png",
+    productPrice: 1363.466,
+    productNewPrice: 36.99,
+  ),
+  insertProduct(
+    productName: "Ferrero Nutella - 350g",
+    productDesc: "Les écouteurs Inkax T02 Plus sont légers, confortables et compatibles avec Android, iOS et PC. Ils offrent une expérience sonore immersive, une connexion stable grâce au Bluetooth 5.1 et jusqu'à 3 heures d'autonomie. Le microphone intégré assure un son net sans bruits extérieurs lors des appels.",
+    productType: "Informatique",
+    productImage: "assets/nutella.png",
+    productPrice: 18.00,
+    productNewPrice: 36.99,
+  ),
+  insertProduct(
+    productName: "Lana Del Rey T-Shirt",
+    productDesc: "Les écouteurs Inkax T02 Plus sont légers, confortables et compatibles avec Android, iOS et PC. Ils offrent une expérience sonore immersive, une connexion stable grâce au Bluetooth 5.1 et jusqu'à 3 heures d'autonomie. Le microphone intégré assure un son net sans bruits extérieurs lors des appels.",
+    productType: "Informatique",
+    productImage: "assets/lana.png",
+    productPrice: 29.99,
+    productNewPrice: 36.99,
+  ),
+  insertProduct(
+    productName: "Head & Shoulders Shampooing",
+    productDesc: "Les écouteurs Inkax T02 Plus sont légers, confortables et compatibles avec Android, iOS et PC. Ils offrent une expérience sonore immersive, une connexion stable grâce au Bluetooth 5.1 et jusqu'à 3 heures d'autonomie. Le microphone intégré assure un son net sans bruits extérieurs lors des appels.",
+    productType: "Informatique",
+    productImage: "assets/shampoi.png",
+    productPrice: 7.99,
+    productNewPrice: 36.99,
+  ),
+  insertProduct(
+    productName: "Lacoste Montre Homme",
+    productDesc: "Les écouteurs Inkax T02 Plus sont légers, confortables et compatibles avec Android, iOS et PC. Ils offrent une expérience sonore immersive, une connexion stable grâce au Bluetooth 5.1 et jusqu'à 3 heures d'autonomie. Le microphone intégré assure un son net sans bruits extérieurs lors des appels.",
+    productType: "Informatique",
+    productImage: "assets/lacost.png",
+    productPrice: 476.10,
+    productNewPrice: 36.99,
+  ),
+  insertProduct(
+    productName: "Apple Iphone 14 Pro",
+    productDesc: "Les écouteurs Inkax T02 Plus sont légers, confortables et compatibles avec Android, iOS et PC. Ils offrent une expérience sonore immersive, une connexion stable grâce au Bluetooth 5.1 et jusqu'à 3 heures d'autonomie. Le microphone intégré assure un son net sans bruits extérieurs lors des appels.",
+    productType: "Informatique",
+    productImage: "assets/iphone.png",
+    productPrice: 8750.00,
+    productNewPrice: 36.99,
+  ),
+  insertProduct(
+    productName: "Biolux FOUR BIOLUX",
+    productDesc: "Les écouteurs Inkax T02 Plus sont légers, confortables et compatibles avec Android, iOS et PC. Ils offrent une expérience sonore immersive, une connexion stable grâce au Bluetooth 5.1 et jusqu'à 3 heures d'autonomie. Le microphone intégré assure un son net sans bruits extérieurs lors des appels.",
+    productType: "Informatique",
+    productImage: "assets/four.png",
+    productPrice: 139.99,
+    productNewPrice: 36.99,
+  ),
+];
